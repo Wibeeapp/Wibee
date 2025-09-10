@@ -1,4 +1,7 @@
 wibbe/
  ├── backend/     
  ├── frontend/    
- └── database/    
+ └── database/  
+  document.getElementById("btn").addEventListener("click", function() {
+  document.getElementById("msg").innerText = "Wibee başlıyor 🚀🔥";
+});
