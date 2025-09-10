@@ -1,0 +1,30 @@
+wibbe/
+ ├── backend/     
+ ├── frontend/    
+ └── database/
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wibee - Hoş Geldiniz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Wibee 🎉</h1>
+    <p>TikTok tarzı yeni nesil video platformuna hoş geldiniz!</p>
+  </header>
+
+  <main>
+    <button id="btn">Beni Tıkla 🎬</button>
+    <p id="msg"></p>
+  </main>
+
+  <footer>
+    <small>© 2025 Wibee Platformu</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
